@@ -15,4 +15,5 @@ Change the blockchain to Ganache
 
 Give your local host
 
+click "ok" and your private blockchain network is made
 
