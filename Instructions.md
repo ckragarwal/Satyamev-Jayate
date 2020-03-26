@@ -9,7 +9,7 @@ Install dependencies- "npm install"
 
 Run "npm start" command
 
-Change the network to Custom RPC
+Change the network on MetaMask to Custom RPC
 
 Change the blockchain to Ganache
 
